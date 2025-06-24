@@ -101,25 +101,6 @@ Final model performance:
 * test\_model.py : Script to test a trained model with a new audio file
 * app.py : Streamlit web application
 * README.md : Project documentation
-
----
-
-**How to Run**
-
-1. To run the training and evaluation pipeline:
-
-   * Open the `Audio_Emotion_Recognition.ipynb` notebook
-
-2. To test the model on a new `.wav` file:
-
-   * Run: `python test_model.py path/to/your/audio.wav`
-
-3. To run the web application:
-
-   * Run: `streamlit run app.py`
-   * Upload a `.wav` file
-   * Get emotion prediction and confidence score
-
 ---
 
 **Requirements**
