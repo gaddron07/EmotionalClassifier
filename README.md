@@ -128,8 +128,7 @@ Main libraries used:
 
 A 2-minute demo video demonstrates how the web app works by uploading audio and displaying predictions.
 
-(Video link placeholder)
-
+(https://drive.google.com/file/d/1634I3SuFXnn-dmk_0J8ru4aoFBCQ43dD/view?usp=sharing)
 ---
 
 **Acknowledgements**
