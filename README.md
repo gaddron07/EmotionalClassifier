@@ -121,14 +121,15 @@ Main libraries used:
 ---
 **Link to upload wav files and check**
 
-    https://emotionalclassifier-2jwrzuv4yhrod4oo5itgzj.streamlit.app/
+https://emotionalclassifier-2jwrzuv4yhrod4oo5itgzj.streamlit.app/
+
 ---
 
 **Demo Video**
 
 A 2-minute demo video demonstrates how the web app works by uploading audio and displaying predictions.
 
-(https://drive.google.com/file/d/1634I3SuFXnn-dmk_0J8ru4aoFBCQ43dD/view?usp=sharing)
+https://drive.google.com/file/d/1634I3SuFXnn-dmk_0J8ru4aoFBCQ43dD/view?usp=sharing
 ---
 
 **Acknowledgements**
