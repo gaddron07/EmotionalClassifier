@@ -119,7 +119,7 @@ Main libraries used:
 * seaborn
 * matplotlib
 ---
-**Link to upload wav files and check**
+**Stream-lit**
 
 https://emotionalclassifier-2jwrzuv4yhrod4oo5itgzj.streamlit.app/
 
